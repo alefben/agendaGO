@@ -1,32 +1,33 @@
-# AgendaGO!
+<h1 align="center"> AgendaGO!</h1>
 
-## Autores >>
-Alef Ben Cacin Estrella Nuayed
+<h2 align="center"> Autores</h2>
 
-Anderson Augusto da Silva Pinto
+<p align="center">Alef Ben Cacin Estrella Nuayed</p>
 
-Camila Uemura Bretone
+<p align="center">Anderson Augusto da Silva Pinto</p>
 
-Carlos Eduardo Rodrigues Cury
+<p align="center">Camila Uemura Bretone</p>
 
-Daniel Ramon Ferreira Silva
+<p align="center">Carlos Eduardo Rodrigues Cury</p>
 
-João Vitor de Moraes
+<p align="center">Daniel Ramon Ferreira Silva</p>
 
-Marcello Pontes Barreto
+<p align="center">João Vitor de Moraes</p>
 
-Rafael Timoteo Rodrigues
+<p align="center">Marcello Pontes Barreto</p>
+
+<p align="center">Rafael Timoteo Rodrigues</p>
 
 <br><br>
-# AgendaGO!
-
-
-Nessa parte do projeto estaremos aprenstando o desenvolvimento e aplicação do AGENDA GO, anteriormente apresentado em protótipo. A prova de conceito aqui desenvolvida e apresentada é o módulo de anotações antecedido pelo index.html onde temos a tela inicial com os campos de login e o main.html onde temos todos os módulos/serviços da aplicação apresentados para serem utilizados quando o desenvolvimento estiver completo.
+<h1 align="center"> AgendaGO!</h1>
 
 <br>
-## Sistema WEB para disporitivos móveis
+<p align="justify">Nessa parte do projeto estaremos aprenstando o desenvolvimento e aplicação do AGENDA GO, anteriormente apresentado em protótipo. A prova de conceito aqui desenvolvida e apresentada é o módulo de anotações antecedido pelo index.html onde temos a tela inicial com os campos de login e o main.html onde temos todos os módulos/serviços da aplicação apresentados para serem utilizados quando o desenvolvimento estiver completo.</p>
 
-Com a AgendaGO!, pessoas de todas as idades podem manter uma vida organizada e gerenciável. É possível acessar a AgendaGO de qualquer dispositivo e não perder mais nenhum compromisso importante. 
+<br>
+<h2>Sistema WEB para disporitivos móveis</h2>
+
+<p align="justify">Com a AgendaGO!, pessoas de todas as idades podem manter uma vida organizada e gerenciável. É possível acessar a AgendaGO de qualquer dispositivo e não perder mais nenhum compromisso importante.</p> 
 
 <br>
 ## O que se pode fazer na AgendaGO!
