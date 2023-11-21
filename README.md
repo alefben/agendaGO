@@ -58,18 +58,28 @@
 <br>
 
 <h3><a href="https://www.flaticon.com"><img src= "https://github.com/alefben/agendaGO/assets/100030617/0c6619ca-f1e1-47ee-8601-faa3a0d82d9b" height= "25" width= "25"></a> - Uso </h3>
+
 * Digite o endereço WEB https://agenda-go.vercel.app
+ 
 * Entre com sua conta, crie uma ou entre pela seua conta Google
-* Escolha um dos módulos para começar a usar
+  
+* Escolha um dos módulos para começar a usar e clique nele
 
 <br>
 
-<h3>Acessibilidade</h3>
+<h4><a href="https://br.freepik.com"><img src="https://github.com/alefben/agendaGO/assets/100030617/543f33d8-6bae-4649-b6f1-98c8b322a166" height= "20" width= "20"></a> - Compartilhamento</h4>
+Em todas as telas você encontrará um ícone de compartilhamento para que possa mostrar o que está sendo feito/produzido através das redes sociais.
+
+<h4>Acessibilidade</h4>
+Em todas as telas você encontrará um ícone de ligar e desligar o som
+Através desse botão, tudo que está sendo apresentado na tela será lido pelo assistente vitual, ajudando assim pessoas com dificuldades visuais.
 
 <br>
 
-<h2 align="center"> Prova de conteito escolhida</h2>
+<h2 align="center">Prova de conteito escolhida</h2>
 <h3 align="center"><em>Anotações</em></h3>
+
+
 
 
 
