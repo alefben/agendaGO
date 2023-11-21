@@ -30,20 +30,26 @@
 <p align="justify">Com a AgendaGO!, pessoas de todas as idades podem manter uma vida organizada e gerenciável. É possível acessar a AgendaGO de qualquer dispositivo e não perder mais nenhum compromisso importante.</p> 
 
 <br>
-## O que se pode fazer na AgendaGO!
+
+<h2> 📌- O que se pode fazer na AgendaGO!</h2>
+
 * Criar anotações personalizadas para cada compromisso e tarefa 
+
 * Criar partilhas de compromissos e tarefas linkadas para a  colaboração e trabalho em equipe
+  
 * Atribua tarefas a membros da família ou colegas de trabalho e acompanhe em tempo real o status de cada uma
 
 <br>
-### Tecnologia Utilizada
+<h3>Tecnologia Utilizada</h3> 
 
-* Html: Foi desenvolvido o esqueleto da aplicação
-* CSS: Foram desenvolvidos os elementos visuais da aplicação
-* Java: Foi utilizado para ciar os scripts
+<a href="https://skillicons.dev"><img src= "https://skillicons.dev/icons?i=html" alt="image" height= "20" width= "20"></a> - Html: Foi desenvolvido o esqueleto da aplicação
+
+<a href="https://skillicons.dev"><img src= "https://skillicons.dev/icons?i=css" alt="image" height= "20" width= "20"></a> - CSS: Foram desenvolvidos os elementos visuais da aplicação
+
+<a href="https://skillicons.dev"><img src= "https://skillicons.dev/icons?i=java" alt="image" height= "20" width= "20"></a> - Java: Foi utilizado para ciar os scripts
 
 <br>
-### 📋 Pré-requisitos
+<h3>📋 Pré-requisitos</h3>
 
 * Tenha um computador, celular, tablet ou qualquer outro dispositivo com navegador.
 * Tenha acesso à internet
@@ -51,7 +57,7 @@
 * Entre com sua conta, crie uma ou entre pela seua conta Google.
 
 <br>
-## Uso
+<h3> Uso </h3>
 
 
 
@@ -61,7 +67,7 @@
 
 Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
-## 📌 Versão
+##  Versão
 
 Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
 
