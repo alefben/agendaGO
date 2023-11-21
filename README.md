@@ -47,7 +47,7 @@
 
 <a href="https://skillicons.dev"><img src= "https://skillicons.dev/icons?i=css" alt="image" height= "20" width= "20"></a> - CSS: Foram desenvolvidos os elementos visuais da aplicação
 
-<a href="https://skillicons.dev"><img src= "https://skillicons.dev/icons?i=java" alt="image" height= "20" width= "20"></a> - Java: Foi utilizado para ciar os scripts
+<a href="https://skillicons.dev"><img src= "https://skillicons.dev/icons?i=js" alt="image" height= "20" width= "20"></a> - Java: Foi utilizado para criar os scripts
 
 <br>
 <h3>📋 - Pré-requisitos</h3>
