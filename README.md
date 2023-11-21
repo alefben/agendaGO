@@ -70,9 +70,13 @@
 <h4><a href="https://br.freepik.com"><img src="https://github.com/alefben/agendaGO/assets/100030617/543f33d8-6bae-4649-b6f1-98c8b322a166" height= "20" width= "20"></a> - Compartilhamento</h4>
 Em todas as telas você encontrará um ícone de compartilhamento para que possa mostrar o que está sendo feito/produzido através das redes sociais
 
+<br>
+
 <h4><a href="https://br.freepik.com"><img src="https://github.com/alefben/agendaGO/assets/100030617/80fbfa9b-0fdb-47e5-a6ff-47393ef401a1" height= "25" width= "25"></a> - Acessibilidade</h4>
 Em todas as telas você encontrará um ícone de ligar e desligar o som
 Através desse botão, tudo que está sendo apresentado na tela será lido pelo assistente vitual, ajudando assim pessoas com dificuldades visuais
+
+<br>
 
 <h4><a href="https://br.freepik.com"><img src="https://github.com/alefben/agendaGO/assets/100030617/7367e31b-db21-4867-ac91-86e438f45309" height= "25" width= "25"></a> - Sair da aplicação</h4>
 Em todas as telas você encontrará um ícone de porta para sair da aplicação e consquentemente deslogar
