@@ -85,18 +85,26 @@ Em todas as telas você encontrará um ícone de porta para sair da aplicação 
 <h2 align="center">Prova de conceito escolhida</h2>
 
 <h3 align="center">Módulo <em>Anotações</em></h3>
+
 <br>
+
 * Clique no módulo anotações e lá ficarão guardadas todas as anotações feitas
-<br>
+
+
 * Para abrir uma anotação basta clicar em cima dela, lê-la ou editá-la
-<br>
+
+
 * Para criar uma nova anotação basta clicar no botão "<em>NOVO DOC</em>"
-<br>
+
+
 * Escolha um título para a nova anotação
-<br>
+
+
 * Escreva a nova anotação
-<br>
+
+
 * Clique no botão salvar
+
 <br>
 
 
