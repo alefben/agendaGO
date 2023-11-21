@@ -70,14 +70,34 @@
 <h4><a href="https://br.freepik.com"><img src="https://github.com/alefben/agendaGO/assets/100030617/543f33d8-6bae-4649-b6f1-98c8b322a166" height= "20" width= "20"></a> - Compartilhamento</h4>
 Em todas as telas você encontrará um ícone de compartilhamento para que possa mostrar o que está sendo feito/produzido através das redes sociais.
 
-<h4>Acessibilidade</h4>
+<h4><a href="https://br.freepik.com"><img src="https://github.com/alefben/agendaGO/assets/100030617/80fbfa9b-0fdb-47e5-a6ff-47393ef401a1" height= "25" width= "25"></a> - Acessibilidade</h4>
 Em todas as telas você encontrará um ícone de ligar e desligar o som
 Através desse botão, tudo que está sendo apresentado na tela será lido pelo assistente vitual, ajudando assim pessoas com dificuldades visuais.
 
+<h4><a href="https://br.freepik.com"><img src="https://github.com/alefben/agendaGO/assets/100030617/7367e31b-db21-4867-ac91-86e438f45309" height= "25" width= "25"></a> - Sair da aplicação</h4>
+Em todas as telas você encontrará um ícone de porta para sair da aplicação e consquentemente deslogar.
+
+
 <br>
 
-<h2 align="center">Prova de conteito escolhida</h2>
-<h3 align="center"><em>Anotações</em></h3>
+<br>
+
+<h2 align="center">Prova de conceito escolhida</h2>
+
+<h3 align="center">Módulo <em>Anotações</em></h3>
+<br>
+* Clique no módulo anotações e lá ficarão guardadas todas as anotações feitas
+<br>
+* Para abrir uma anotação basta clicar em cima dela, lê-la ou editá-la
+<br>
+* Para criar uma nova anotação basta clicar no botão "<em>NOVO DOC</em>"
+<br>
+* Escolha um título para a nova anotação
+<br>
+* Escreva a nova anotação
+<br>
+* Clique no botão salvar
+<br>
 
 
 
@@ -87,23 +107,3 @@ Através desse botão, tudo que está sendo apresentado na tela será lido pelo 
 
 
 
-## 🖇️ Colaborando
-
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
-
-##  Versão
-
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-
-
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
