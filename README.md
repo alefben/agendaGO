@@ -25,7 +25,8 @@
 <p align="justify">Nessa parte do projeto estaremos aprenstando o desenvolvimento e aplicação do AGENDA GO, anteriormente apresentado em protótipo. A prova de conceito aqui desenvolvida e apresentada é o módulo de anotações antecedido pelo index.html onde temos a tela inicial com os campos de login e o main.html onde temos todos os módulos/serviços da aplicação apresentados para serem utilizados quando o desenvolvimento estiver completo.</p>
 
 <br>
-<h2>Sistema WEB para disporitivos móveis</h2>
+<h2>Sistema WEB para disporitivos móveis</h2> <a href="https://iconscout.com/"><img src= "https://github.com/alefben/agendaGO/assets/100030617/74d0825c-60bc-4948-b5fc-2e9395cd9158"></a>
+
 
 <p align="justify">Com a AgendaGO!, pessoas de todas as idades podem manter uma vida organizada e gerenciável. É possível acessar a AgendaGO de qualquer dispositivo e não perder mais nenhum compromisso importante.</p> 
 
