@@ -25,7 +25,7 @@
 <p align="justify">Nessa parte do projeto estaremos aprenstando o desenvolvimento e aplicação do AGENDA GO, anteriormente apresentado em protótipo. A prova de conceito aqui desenvolvida e apresentada é o módulo de anotações antecedido pelo index.html onde temos a tela inicial com os campos de login e o main.html onde temos todos os módulos/serviços da aplicação apresentados para serem utilizados quando o desenvolvimento estiver completo.</p>
 
 <br>
-<h2>Sistema WEB para disporitivos móveis</h2> <a href="https://iconscout.com/"><img src= "https://github.com/alefben/agendaGO/assets/100030617/74d0825c-60bc-4948-b5fc-2e9395cd9158"></a>
+<h2><a href="https://iconscout.com/"><img src= "https://github.com/alefben/agendaGO/assets/100030617/74d0825c-60bc-4948-b5fc-2e9395cd9158"  height= "40" width= "40"></a> - Sistema WEB para disporitivos móveis</h2> 
 
 
 <p align="justify">Com a AgendaGO!, pessoas de todas as idades podem manter uma vida organizada e gerenciável. É possível acessar a AgendaGO de qualquer dispositivo e não perder mais nenhum compromisso importante.</p> 
@@ -50,15 +50,28 @@
 <a href="https://skillicons.dev"><img src= "https://skillicons.dev/icons?i=java" alt="image" height= "20" width= "20"></a> - Java: Foi utilizado para ciar os scripts
 
 <br>
-<h3>📋 Pré-requisitos</h3>
+<h3>📋 - Pré-requisitos</h3>
 
-* Tenha um computador, celular, tablet ou qualquer outro dispositivo com navegador.
+* Tenha um computador, celular, tablet ou qualquer outro dispositivo com navegador
 * Tenha acesso à internet
-* Digite o endereço WEB https://agenda-go.vercel.app/
-* Entre com sua conta, crie uma ou entre pela seua conta Google.
 
 <br>
-<h3> Uso </h3>
+
+<h3><a href="https://www.flaticon.com"><img src= "https://github.com/alefben/agendaGO/assets/100030617/0c6619ca-f1e1-47ee-8601-faa3a0d82d9b" height= "25" width= "25"></a> - Uso </h3>
+* Digite o endereço WEB https://agenda-go.vercel.app
+* Entre com sua conta, crie uma ou entre pela seua conta Google
+* Escolha um dos módulos para começar a usar
+
+<br>
+
+<h3>Acessibilidade</h3>
+
+<br>
+
+<h2>Prova de conteito escolhida</h2>
+
+
+
 
 
 
